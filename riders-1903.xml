@@ -43,17 +43,17 @@
     <body>
       <div type="act" n="1">
         <pb n="25"/>
-        <stage>SCENE. -- Island off the West of <name type="place" ref="http://viaf.org/viaf/158208597">Ireland</name>. Cottage kitchen, with nets, oil-skins, spinning whell, some new boards standing by the wall, etc. Cathleen, a girl of about twenty, finishes kneading cake, and puts it down in the pot-oven by the fire; then wipes her hands, and begins to spin at the wheel. Nora, a young girl, puts her head in at the door.</stage>
+        <stage>SCENE. -- Island off the West of Ireland. Cottage kitchen, with nets, oil-skins, spinning whell, some new boards standing by the wall, etc. Cathleen, a girl of about twenty, finishes kneading cake, and puts it down in the pot-oven by the fire; then wipes her hands, and begins to spin at the wheel. Nora, a young girl, puts her head in at the door.</stage>
         <sp who="#nor"><speaker>Nora</speaker><stage>(in a low voice).</stage><p>Where is she?</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><p>She's lying down; God help her, and maybe sleeping, if she's able.</p></sp>
         <stage>Nora comes in softly, and takes a bundle from under her shawl.</stage>
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(spinning the wheel rapidly).</stage><p>What is it you have?</p></sp>
-        <sp who="#nor"><speaker>Nora</speaker><p>The young priest is after bringing them. It's a shirt and a plain stocking were got off a drowned man in <name type="place" ref="http://viaf.org/viaf/127982213">Donegal</name>.</p></sp>
+        <sp who="#nor"><speaker>Nora</speaker><p>The young priest is after bringing them. It's a shirt and a plain stocking were got off a drowned man in Donegal.</p></sp>
         <stage>(Cathleen stops her wheel with a sudden movement, and leans out to listen).</stage>
         <sp who="#nor"><speaker>Nora</speaker><p>We're to find out if it's Michael's they are, some time herself will be down looking by the sea.</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><p>How would they be Michael's, Nora. How would he go the length of that way to the far north?</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><p>The young priest says he's known the like of it. . . "If it's Michael's they are," says he, "you can tell herself he's got a clean burial by the grace of God, and if they're not his let no one say a word about them, for she'll be getting her death," says he, "with crying and lamenting."</p><stage>The door which Nora half closed behind her is blown open by a gust of wind.)</stage></sp>
-        <sp who="#cat"><speaker>Cathleen</speaker><stage>(looking out anxiously).</stage><p>Did you ask him would he stop Bartley going this day to <name type="place" ref="http://viaf.org/viaf/239013824">Connemara</name>?</p></sp>
+        <sp who="#cat"><speaker>Cathleen</speaker><stage>(looking out anxiously).</stage><p>Did you ask him would he stop Bartley going this day to Connemara?</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><p>"I won't stop him," says he, "but let you not be afraid. Herself does be saying prayers half through the night, and the Almighty God won't leave her destitute," says he, "with no son living."</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><p>Is the sea bad by the white rocks, Nora?</p></sp>
       <pb n="26"/>
@@ -63,7 +63,7 @@
         <sp who="#cat"><speaker>Cathleen</speaker><p>Give me the ladder, and I'll put them up in the turf-loft, the way she won't know of them at all, and maybe when the tide turns she'll be going down to see would he be floating from the east.</p></sp>
         <stage>(They put the ladder against the gable of the chimney, and Cathleen goes up under the thatch with the bundle in her hand. Maurya, the old woman, comes from the inner room).</stage>
         <sp who="#mau"><speaker>Maurya</speaker><stage>(looking up at Cathleen and speaking querulously).</stage><p>Isn't it turf enough you have for this day and evening?</p></sp>
-        <sp who="#cat"><speaker>Cathleen</speaker><p>There's a cake baking at the fire for a short space <stage>(throwing down turf)</stage>, and Bartley will want it when the tide turns if he goes to <name type="place" ref="http://viaf.org/viaf/239013824">Connemara</name>.</p></sp>
+        <sp who="#cat"><speaker>Cathleen</speaker><p>There's a cake baking at the fire for a short space <stage>(throwing down turf)</stage>, and Bartley will want it when the tide turns if he goes to Connemara.</p></sp>
         <stage>(Nora picks up the turf and puts it round the pot-oven).</stage>
         <sp who="#mau"><speaker>Maurya</speaker><stage>(sitting down on a stool at the fire).</stage><p>He won't go this day with the wind rising from the south and west. He won't go this day, for the young priest will stop him surely.</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><p>He'll not stop him, mother, and I heard Eamon Simon and Stephen Pheety and Colum Shawn saying he would go.</p></sp>
@@ -71,12 +71,12 @@
         <sp who="#nor"><speaker>Nora</speaker><p>He went down to see would there be another boat sailing in the week, and I'm thinking it won't be long till he's here now, for the tide's turning at the green head, and the hooker's tacking from the east.</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><p>I hear someone passing the big stones.</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><stage>(looking out).</stage><p>He's coming now, and he is in a hurry.</p></sp>
-        <sp who="#bar"><speaker>Bartley</speaker><stage>(comes in and looks round the room.</stage> <stage>Speaking sadly and quietly)</stage><p>Where is the bit of new rope, Cathleen, was bought in <name type="place" ref="http://viaf.org/viaf/239013824">Connemara</name>?</p></sp>
+        <sp who="#bar"><speaker>Bartley</speaker><stage>(comes in and looks round the room.</stage> <stage>Speaking sadly and quietly)</stage><p>Where is the bit of new rope, Cathleen, was bought in Connemara?</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(coming down).</stage><p>Give it to him, Nora; it's on a nail by the white boards. I hung it up this morning, for the pig with the black feet was eating it.</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><stage>(giving him a rope.)</stage><p>Is that it, Bartley?</p></sp>
         <sp who="#mau"><speaker>Maurya</speaker><p>You'ld do right to leave that rope, Bartley, hanging by the boards. <stage>(Bartley takes the rope.)</stage>It will be wanting in this place, I'm telling you, if Michael is washed up to-morrow morning, or the next morning, or any morning of the week, for it's a deep grave we'll make him by the grace of God.</p></sp>
         <sp who="#bar"><speaker>Bartley</speaker><stage>(beginning to work with the rope.)</stage><p>I've no halter the way I can ride down on the mare, and I must go now quickly. This is the one <pb n="27"/>boat going for two weeks or beyond it, and the fair will be a good fair I heard them saying below.</p></sp>
-        <sp who="#mau"><speaker>Maurya</speaker><p>It a hard thing they'll be saying below if the body is washed up and there's no man in it to make the coffin, and I after giving a big price for the finest white boards you'ld find in <name type="place" ref="http://viaf.org/viaf/239013824">Connemara</name>.</p></sp>
+        <sp who="#mau"><speaker>Maurya</speaker><p>It a hard thing they'll be saying below if the body is washed up and there's no man in it to make the coffin, and I after giving a big price for the finest white boards you'ld find in Connemara.</p></sp>
         <stage>(She looks round at the boards).</stage>
         <sp who="#bar"><speaker>Bartley</speaker><p>How would it be washed up, and we after looking each day for nine days, and a strong wind blowing a while back from the west and south?</p></sp>
         <sp who="#mau"><speaker>Maurya</speaker><p>If it isn't found itself, that wind is raising the sea, and there was a star up against the moon, and it rising in the night. If it was a hundred horses, or a thousand horses you had itself, what is the price of a thousand horses against a son where there is one son only?</p></sp>
@@ -105,7 +105,7 @@
         <sp who="#mau"><speaker>Maurya</speaker><stage>(standing up unsteadily).</stage><p>It's hard set I am to walk.</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(looking at her anxiously).</stage><p>Give her the stick, Nora, or maybe she'll slip on the big stones.</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><p>What stick?</p></sp>
-        <sp who="#cat"><speaker>Cathleen</speaker><p>The stick Michael brought from <name type="place" ref="http://viaf.org/viaf/239013824">Connemara</name>.</p></sp>
+        <sp who="#cat"><speaker>Cathleen</speaker><p>The stick Michael brought from Connemara.</p></sp>
         <sp who="#mau"><speaker>Maurya</speaker><stage>(taking a stick Nora gives her).</stage><p>In the big world the old people do be leaving things after them for their sons and children, but in this place it is the young men do be leaving things behind for them that do be old.</p><stage>(She goes out slowly.)</stage></sp>
         <stage>(Nora goes over to the ladder.)</stage>
         <sp who="#cat"><speaker>Cathleen</speaker><p>Wait, Nora, maybe she'd turn back quickly. She's that sorry, God help her, you wouldn't know the thing she'd do.</p></sp>
@@ -115,8 +115,8 @@
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(taking the bundle).</stage><p>Did he say what way they were found?</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><stage>(coming down).</stage><p>"There were two men," says he, "and they rowing round with poteen before the cocks crowed, and the oar of one of them caught the body and they passing the black cliffs of the north."</p></sp>
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(trying to open the bundle).</stage><p>Give me a knife, Nora, the <pb n="29"/>string's perished with the salt water, and there's a black knot on it you wouldn't loosen in a week.</p></sp>
-        <sp who="#nor"><speaker>Nora</speaker><stage>(giving her a knife).</stage><p>I've heard tell it was a long way to <name type="place" ref="http://viaf.org/viaf/127982213">Donegal</name>.</p></sp>
-        <sp who="#cat"><speaker>Cathleen</speaker><stage>(cutting the string).</stage><p>It is surely. There was a man in here a while ago -- the man sold us that knife -- and he said if you set off walking from the rocks beyond it would be in seven days you'd be in <name type="place" ref="http://viaf.org/viaf/127982213">Donegal</name>.</p></sp>
+        <sp who="#nor"><speaker>Nora</speaker><stage>(giving her a knife).</stage><p>I've heard tell it was a long way to Donegal.</p></sp>
+        <sp who="#cat"><speaker>Cathleen</speaker><stage>(cutting the string).</stage><p>It is surely. There was a man in here a while ago -- the man sold us that knife -- and he said if you set off walking from the rocks beyond it would be in seven days you'd be in Donegal.</p></sp>
         <sp who="#nor"><speaker>Nora</speaker><p>And what time would a man take and he floating?</p></sp>
         <stage>(Cathleen opens the bundle and takes out a bit of a shirt and a stocking. They look at them eagerly).</stage>
         <sp who="#cat"><speaker>Cathleen</speaker><stage>(in a low voice).</stage><p>The Lord spares us, Nora; isn't is a queer hard thing to say if it's his they are surely?</p></sp>
